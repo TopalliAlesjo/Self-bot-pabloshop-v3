@@ -1,0 +1,80 @@
+{
+    "server": ["1130481233084809256", "957081335783108688", "1081915213915373678"], "//": "qua a sinitra mettere id server in cui vuoi funzioni il (Please wait my reply.)",
+
+    "words": "<@973985326148251699>", "//": "qua a sinitra mettere id tuo in mezzo a <@>",
+
+
+    "//": "↓FUNZIONE WAIT-MY-REPLY↓",
+
+    "tag-reply": "***Please wait my reply.***  \n > # DON'T SPAM \n > *(this message is sended by a bot)*  \n > *by* 𝗣𝗮𝗯𝗹𝗼🂱𝗦𝗵𝗼𝗽  *©pablo* 🂱", 
+    "webhook-id-waitreply": "114865432533", 
+    "webhook-token-waitreply": "sL9GrJaeOeQgdqsA260HA-qZcugiExrBE8tD5",
+    "avatarWebhook-waitreply": "https://cdn.discordapp.com/attachments/1081974703473823886/11486515", 
+    "usernameWebhook-waitreply": "Chi Ti Cerca",
+    "contentWebhook-waitreply": "@everyone", "//": "NON TOCCARE",
+    "title-embed-waitreply": "Nuova Notifica",
+    "color-embed-waitreply": "#FF0000",
+    "group-dm": "GROUP_DM", "//": "DON'T TOUCH, if u don't want dm group reply bot delete GROUP_DM ONLY.",
+    "dm": "DM", "//": "DON'T TOUCH, if u don't want dm reply bot delete DM ONLY.",
+
+    "your-id": "973985326148251699",  "//": "qua a sinitra mettere IL TUO ID",
+    
+
+
+    "activity": "v3 coming soon!",  "//": "qua a sinitra mettere status profilo che vuoi",
+    "activity-type": "WATCHING",  "//": "qua a sinitra scegli il type (PLAYING,STREAMING,LISTENING,WATCHING,COMPETING",
+    
+
+    "//": "↓COMANDI BASE-SELLER↓",
+
+    "command-1": "!shop",
+    "reply-1": "***Selling:*** \n \n > **-Cheap N1tro (basso costo) \n  > -Generator N1tro \n  > -Server boost \n  > -Boost BOT \n  > -BOT Discord (della police di Vanquest) essendo ex developer vanquest police creati io \n  > -Service Dump discord  \n  > -Multi tool (con tante opzioni) \n  > -Free VPN \n  > -Free software (tra cui i più famosi photoshop ecc.) \n  > -Grafiche uniche e personalizzate dal nostro grafico!** \n \n discord.gg/EuhRcECnP7 ©*pablo* 🂱",
+    "command-2": "!ltc",
+    "reply-2": "**𝗣𝗮𝗯𝗹𝗼🂱𝗦𝗵𝗼𝗽 __𝗹𝘁𝗰 𝗮𝗱𝗱𝘆__** \n \n > LQS9to9WdsQ1nh52zJvYbMMcYECDebxyU3   \n > \n > *SEND SCREENSHOT* \n \n > 𝗣𝗮𝗯𝗹𝗼🂱𝗦𝗵𝗼𝗽  *©pablo* 🂱",
+    "command-3": "!paypal",
+    "reply-3": "**𝗣𝗮𝗯𝗹𝗼🂱𝗦𝗵𝗼𝗽 __Paypal__** \n \n *link:* https://www.paypal.me/anonymousXpablo \n *email:* `pedatorxtrixi@gmail.com` \n \n > *NO NOTE \n > FAMILY AND FRIEND \n > SEND SCREENSHOT* \n \n > 𝗣𝗮𝗯𝗹𝗼🂱𝗦𝗵𝗼𝗽  *©pablo* 🂱",
+    
+
+    "//": "↓TUTTI I COMANDI↓", "//": "Sono stati implementati con annessi prefix per garantirti di usare qualsiasi comando tu voglia per quella funzione!",
+
+    "command-eurtoltc": "!eurtoltc",
+    "command-ltctoeur": "!ltctoeur",
+    "command-calcolator": "!calc",
+    "command-fattura": "!fattura",
+    "command-mybalance": "!mybalance",
+    "command-balance": "!balance",
+
+
+
+    "personal-ltc-addy": "LSwbo5WPXS8x846132YN8H2cX8CvZdDS22",
+
+    "percorso-logo": "C:/Users/anonymous/Desktop/Progetti/SELFBOT/self-bot-pabloshop-v3-dev/mylogo.png",
+    
+
+    "//": "↓FUNZIONE FATTURE↓",
+    
+    "webhook-id-fatture": "1151939167283", 
+    "webhook-token-fatture": "uB3-ysfzyCc4sP0GOv4JhJ-qMDB2cXck3Fy0sV0F",
+    "avatarWebhook-fatture": "https://cdn.discordapp.com/attachments/1081974703473823886/1148651510478164029/fbdf3", 
+    "usernameWebhook-fatture": "ARCHIVIO FATTURE",
+    "contentWebhook-fatture": "@everyone",              "//": "NON TOCCARE",
+   
+
+    "//": "↓FUNZIONE NITRO-SNIPER↓",
+
+    "webhook-id-nitro-sniper": "11519376069268", 
+    "webhook-token-nitro-sniper": "l_KMZe8BtnnhRyKJ_boG7872_Sh9jbFWwb5AZko3MFvX3",
+    "avatarWebhook-nitro-sniper": "https://cdn.discordapp.com/attachments/1081974703473823886/1148651510478164029/fbdf389"
+
+
+
+} 
+
+
+
+
+
+
+
+
+
