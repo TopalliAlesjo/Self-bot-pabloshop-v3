@@ -341,6 +341,5 @@
               message.channel.send('Errore durante l\'ottenimento del bilancio. \n \n Error obtaining the balance sheet.');
             }); 
   }
-}) 
-();
+})
 
